@@ -4,3 +4,7 @@ h1{
 body{
     background-color: #f6d1de;
 }
+img{
+    width:100%;
+    display:block;
+}
