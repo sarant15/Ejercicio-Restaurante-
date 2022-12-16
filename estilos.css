@@ -1,17 +1,18 @@
-h1,h3{
-    text-align:center;
+h1,
+h3 {
+    text-align: center;
 }
-body{
+
+body {
     background-color: #f6d1de;
 }
-img{
-    width:100%;
-    display:block;
+
+img {
+    width: 100%;
+    display: block;
 }
-.precio{
+
+.precio {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 1.1rem;
-}
-.centrado{
-    text-align: center;
 }
